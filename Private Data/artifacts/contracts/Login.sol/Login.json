@@ -1,0 +1,27 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Login",
+  "sourceName": "contracts/Login.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes32",
+          "name": "_username",
+          "type": "bytes32"
+        },
+        {
+          "internalType": "bytes32",
+          "name": "_password",
+          "type": "bytes32"
+        }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b5060405160f538038060f58339818101604052810190602d91906054565b8160008190555080600181905550505060a9565b600081519050604e816095565b92915050565b60008060408385031215606657600080fd5b60006072858286016041565b92505060206081858286016041565b9150509250929050565b6000819050919050565b609c81608b565b811460a657600080fd5b50565b603f8060b66000396000f3fe6080604052600080fdfea26469706673582212205e6446e3dee0c2d973b2faf19512cd50fcf894836b552c6ddaa0be0340134e0a64736f6c63430008040033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212205e6446e3dee0c2d973b2faf19512cd50fcf894836b552c6ddaa0be0340134e0a64736f6c63430008040033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
